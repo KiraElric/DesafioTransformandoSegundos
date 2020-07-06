@@ -9,6 +9,6 @@ def to_minutes(array)
   return minutes
 end
 
-seconds = [100, 50, 1000, 5000, 1000, 500, 60, 120, 180]
-
-print to_minutes(seconds)
+#Prueba
+#seconds = [100, 50, 1000, 5000, 1000, 500, 60, 120, 180]
+#print to_minutes(seconds)
